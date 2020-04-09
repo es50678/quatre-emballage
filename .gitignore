@@ -4,8 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-#/src/*.js
-#/src/*.js.map
+/src/*.js
+/src/*.js.map
 /plugins
 
 # testing

@@ -7,7 +7,10 @@
     "url": "https://github.com/es50678/quatre-emballage.git"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
 }
