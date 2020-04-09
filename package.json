@@ -2,7 +2,7 @@
   "name": "quatre-emballage",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git://github.com/es50678/quatre-emballage",
+  "repository": "git://github.com/es50678/quatre-emballage.git",
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
   },
