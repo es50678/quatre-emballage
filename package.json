@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": "git://github.com/es50678/quatre-emballage",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/es50678"
+    "registry":"https://npm.pkg.github.com/"
   },
   "license": "MIT"
 }
